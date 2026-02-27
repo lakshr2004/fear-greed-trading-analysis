@@ -116,16 +116,4 @@ Statistical T-test validation
 
 Final summary table (summary_table.csv)
 
-This repository fulfills the deliverables requirement including:
 
-Notebook
-
-Setup instructions
-
-Output tables
-
-Methodology summary
-
-Insights
-
-Strategy recommendations
